@@ -1,0 +1,27 @@
+--Name: wash  | 2023-02-23T00:03:56Z
+BoxZone:Create(vector3(660.32, 1282.51, 360.3), 1.6, 2, {
+  name="wash ",
+  heading=4,
+  --debugPoly=true,
+  minZ=358.9,
+  maxZ=362.9
+})
+
+--Name: wash | 2023-02-23T00:09:39Z
+BoxZone:Create(vector3(661.02, 1282.63, 360.3), 0.8, 1, {
+  name="wash",
+  heading=5,
+  --debugPoly=true,
+  minZ=356.85,
+  maxZ=360.45
+})
+
+--Name: wash | 2023-02-23T01:01:01Z
+BoxZone:Create(vector3(660.38, 1282.56, 360.3), 1.4, 1, {
+  name="wash",
+  heading=359,
+  --debugPoly=true,
+  minZ=359.2,
+  maxZ=361.8
+})
+
